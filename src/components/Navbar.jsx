@@ -8,7 +8,7 @@ const Navbar = () => {
           <MdFlightTakeoff className="text-4xl text-indigo-800" />
           <div className='uppercase text-2xl'>
             <span className="text-slate-500">flight</span>
-            <span className="text-indigo-800 ml-2">booking test</span>
+            <span className="text-indigo-800 ml-2">booking</span>
           </div>
         </a>
         <button
